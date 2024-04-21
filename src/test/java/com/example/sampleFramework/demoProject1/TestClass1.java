@@ -23,19 +23,19 @@ public class TestClass1 {
 	
 	@Test
 	public void Test1() {
-		driver.navigate().to("www.AutomationTalks.com");
+		//driver.navigate().to("www.google.com");
 		System.out.print("Test1 title is: "+driver.getTitle());
 	}
 	
 	@Test
 	public void Test2() {
-		driver.navigate().to("www.AutomationTalks.com");
+		//driver.navigate().to("www.AutomationTalks.com");
 		System.out.print("Test1 title is: "+driver.getTitle());
 	}
 	
 	@Test
 	public void Test3() {
-		driver.navigate().to("www.AutomationTalks.com");
+		//driver.navigate().to("www.AutomationTalks.com");
 		System.out.print("Test1 title is: "+driver.getTitle());
 	}
 	
